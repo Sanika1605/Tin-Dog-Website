@@ -1,0 +1,157 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  #tit1{
+    font-size: 45px;
+      position: relative;
+      left: 200px;
+      top: 100px;
+  }
+  #btn{
+    position: relative;
+    left: 190px;
+      bottom: 50px;
+  }
+  #b1{
+    position: relative;
+    left:150px;
+  }
+  #b2{
+    position: relative;
+      left: 550px;
+      bottom: 70px;
+  }
+  #b3{
+    position: relative;
+      left: 899px;
+      bottom: 127px;
+  }
+  
+  #bdy1{
+    font-size:25px;
+    height:300px;
+  }
+  #body2{
+    background-color: #f6f2f2;
+    height: 350px;
+  }
+  #img{
+      position: relative;
+      left: 600px;
+      bottom: 96px;
+  }
+  pre{
+    font-size: 15px;
+  }
+  #dogimg{
+      position: relative;
+      left: 700px; 
+  }
+  #c1{
+      position: relative;
+      left: 300px;
+  }
+  #cc1{
+    color:green;
+    
+  }
+  #c2{
+    color:#5cd6ff;
+        position: relative;
+      left: 530px;
+      bottom: 50px;
+  }
+  #c3{
+    color:#184262;
+    position: relative;
+      left: 780px;
+      bottom: 97px;
+  }
+  #c4{
+    position: relative;
+      left: 1050px;
+      bottom: 135px;
+  }
+  #d1{
+    font-size:40px;
+  }
+  #d2{
+    position: relative;
+      left: 40%;
+    bottom:20px;
+  }
+  #blwdog{
+     position: relative;
+      left: 688px;
+    bottom:22px;
+  }
+  #title{
+      height:350px;
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  @keyframes title {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  
+  #footer{
+      height:350px;
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  @keyframes footer {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  #footer{
+    height:250px;
+  }
+  #copy{
+    position:relative;
+    left:140px;
+  }
+  #e1{
+    position:relative;
+    left:650px;
+    bottom:25px;
+  }
+  #e2{
+    position:relative;
+    left:820px;
+    bottom:170px;
+  }
+  #e3{
+    position:relative;
+    left:1000px;
+    bottom:310px;
+  }
+  /* .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  
+  .profile-img {
+    border-radius: 50%;
+    height: 100px;
+  } */
+  
